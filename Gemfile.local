@@ -1,0 +1,2 @@
+gem 'mysql2', '~> 0.3.11'
+gem 'makara', github: 'taskrabbit/makara', tag: 'v0.3.3'

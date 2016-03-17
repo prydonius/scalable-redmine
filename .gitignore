@@ -38,6 +38,5 @@
 
 /.bundle
 /Gemfile.lock
-/Gemfile.local
 
 Dockerfile
